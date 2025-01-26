@@ -1,1 +1,3 @@
-# Volatility-algorithmic-trading
+1. jiaoyi is the project i still working with Volatility algorithmic trading in future buying and selling, the logic is to catch every seconds market change then base on the volatilty change  to do the judge I should buy or sell futures. The api for trading is own binance api. 
+2. becasue this is the project I still working with, so I try to do both long-term and short term. Long term is base on the long term market change , short term base on the trading infromation and news information, but api is very expensive, so I create a Crawers example to catch the news information
+3. catch the news is base on the information of crawers, this is an example by using bings api. I will try to base all on crawers later becase I cannot afford expensive api
